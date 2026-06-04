@@ -1,4 +1,4 @@
-# learning
+# Learning
 
 這是一個學習用的 monorepo，收錄了多個練習、實作與實驗專案。
 
