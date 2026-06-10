@@ -29,5 +29,3 @@
 - 檢視子專案：cd copilot && ls -la
 - 若要更新某個來源 repo：在本地重新執行搬移流程（或採用 subtree pull / 再移入）。
 
-聯絡與貢獻
-- 若你要加入更多教學 repo，請在 root README 的 “Add new tutorial” 段落下新增條目或發 PR。
