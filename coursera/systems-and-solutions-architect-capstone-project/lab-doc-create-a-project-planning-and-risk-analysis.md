@@ -1,6 +1,6 @@
 
+# Lab: Create a Project Planning and Risk Analysis
 
-Lab: Create a Project Planning and Risk Analysis
 Estimated time: 30 minutes
 Learning objectives
 

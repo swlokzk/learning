@@ -1,4 +1,4 @@
-Assignment Overview: Create an Architectural Diagram and Cloud Setup
+# Assignment Overview: Create an Architectural Diagram and Cloud Setup
 
 Estimated time: 2 minutes
 Introduction
