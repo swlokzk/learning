@@ -1,6 +1,35 @@
+Assignment Overview: Project Planning and Risk Analysis
 
-# Lab: Create a Project Planning and Risk Analysis
+Estimated time: 4 minutes
+Introduction
 
+This module guides you through comprehensive project planning and risk analysis for Retail Bank's Digital Core Transformation, focusing on structured decomposition, schedule visualization, and proactive risk management to ensure timely delivery within regulatory and budget constraints.
+Tasks
+Task 1: Develop Work Breakdown Structure (WBS) and Network Diagram
+
+Create detailed WBS and Network Diagram using Excel or Lucidchart to decompose the project into phases—from initiation to closure—with dependencies and timeline estimates to identify critical paths and potential bottlenecks.
+Task 2: Conduct SWOT analysis
+
+Conduct a SWOT analysis to assess internal strengths and weaknesses, as well as external opportunities and threats influencing the project, using the provided templates to inform risk mitigation and strategic resource allocation.
+Task 3: Build risk register
+
+Identify, prioritize, and document risks and opportunities with probability and impact ratings, triggers, and response plans in the Risk Register, addressing technical and regulatory challenges affecting project success.
+Task 4: Create risk matrix
+
+Visualize risk exposure by mapping prioritized risks on a color-coded Risk Matrix, helping prioritize mitigation actions and prepare for uncertainties throughout the transformation lifecycle.
+Deliverables
+
+In this module, you will work on the following deliverables:
+
+    Work Breakdown Structure (WBS) detailing project phases and tasks
+    Network Diagram illustrating task dependencies and critical paths
+    SWOT Analysis report highlighting strengths, weaknesses, opportunities, and threats
+    Risk Register documenting risks, impacts, triggers, and responses
+    Risk Matrix visualization prioritizing risk mitigation strategies
+
+---
+
+Lab: Create a Project Planning and Risk Analysis
 Estimated time: 30 minutes
 Learning objectives
 
@@ -209,7 +238,6 @@ Save your created risk matrix as Name_RiskMatrix.xlsx and keep it handy for the 
 Summary
 
 Congratulations on completing this Lab: Project Planning and Risk Analysis! These artifacts reflect your ability to break down complex architecture programs, identify dependencies, and mitigate strategic and technical risks in high-stakes enterprise environments.
-Author
 
-Parikshit Jain
+---
 
